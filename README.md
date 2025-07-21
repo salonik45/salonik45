@@ -17,6 +17,14 @@
 
 ---
 
+### 🌐 Connect with Me
+<p>
+  <a href="mailto:salonik452@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/saloni93" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+
+---
 ### 🚀 Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -42,13 +50,8 @@
 - 🤝 I believe in **teamwork** and **continuous growth**
 - 📢 I love to **share knowledge** and **explore tech trends**
 
----
 
-### 🌐 Connect with Me
-<p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+
 
 ---
 
